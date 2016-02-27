@@ -1,0 +1,62 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/vagrant/redux-easy-boilerplate/src/components/Projects/" . "files/")
+ ("/home/vagrant/.emacs.d/" . "auto-save-list/")
+ ("/home/vagrant/redux-easy-boilerplate/src/components/" . "Projects/")
+ ("/home/vagrant/redux-easy-boilerplate/src/" . "components/")
+ ("/home/vagrant/redux-easy-boilerplate/" . "src/")
+ ("/home/vagrant/" . "redux-easy-boilerplate/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/vagrant/.emacs.d/"
+ "/home/vagrant/redux-easy-boilerplate/src/components/Tools/"
+ "/home/vagrant/redux-easy-boilerplate/src/components/Projects/"
+ "/home/vagrant/redux-easy-boilerplate/src/actions/"
+ "/home/vagrant/redux-easy-boilerplate/src/components/AddItem/"
+ "/home/vagrant/redux-easy-boilerplate/src/components/Footer/"
+ "/home/vagrant/redux-easy-boilerplate/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "index.js"
+ "items.js"
+ "routes.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/vagrant/.emacs.d/" (22220 29702 450328 402000) "init.el~" "auto-save-list/" "../" "elpa/" "ido.last" "./" "init.el" "custom.el")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/Tools/" (22220 22683 92218 666000) "../" "index.js" "files/" "./" "styles.scss")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/Projects/files/" (22220 22683 92218 666000) "../" "AndreyKeske.jpg" "Landed.jpg" "./")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/Projects/" (22220 29236 719769 84000) "../" "index.js" "files/" "./" "styles.scss")
+
+ ("/home/vagrant/.emacs.d/auto-save-list/" (22220 28833 348973 59000) "../" ".saves-5263-precise64~" "./")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/" (22220 22683 92218 666000) "Projects/" "../" "Tools/" "TopImage/" "Header/" "AddItem/" "Footer/" "Items/" "./")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/actions/" (22220 22683 84219 721000) "../" "items.js" "./")
+
+ ("/home/vagrant/.emacs.d/elpa/" (22220 28196 744940 963000) "seq-1.11/" "magit-20160219.1502/" "magit-popup-20160130.649/" "js2-mode-readme.txt~" "../" "js2-mode-20150909/" "js2-mode-readme.txt" "archives/" "flycheck-readme.txt" "ido-completing-read+-20160220.1642/" "pretty-symbols-readme.txt" "dash-20151216.1315/" "with-editor-20160215.843/" "git-commit-20160130.649/" "pretty-symbols-20140814.259/" "paredit-20150217.713/" "async-20160223.146/" "magit-readme.txt" "zenburn-theme-20160204.1216/" "./" "gnupg/")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/AddItem/" (22220 22683 84219 721000) "../" "index.js" "./" "styles.scss")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/components/Footer/" (22220 22683 84219 721000) "../" "index.js" "./" "styles.scss")
+
+ ("/home/vagrant/redux-easy-boilerplate/src/" (22220 22683 96218 140000) "routes.js" "actions/" "../" "index.js" "containers/" "reducers/" "utils/" "store/" "test/" "./" "components/")
+
+ ("/home/vagrant/redux-easy-boilerplate/" (22220 22859 636926 793000) "webpack/" "package.json" "../" "server.js" "bin/" "karma.conf.js" "index.html" ".babelrc" ".eslintrc" ".git/" ".bootstraprc" ".gitignore" "README.md" "./" "src/")
+
+ ("/home/vagrant/" (22220 22673 349528 885000) ".ssh/" ".cache/" ".vbox_version" ".veewee_version" ".profile" "../" ".emacs.d/" ".bash_logout" ".sudo_as_admin_successful" "projects/" ".bashrc" ".bash_history" ".gnupg/" "note.txt~" "redux-easy-boilerplate/" "emacs-src/" "./" "note.txt" "postinstall.sh")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
