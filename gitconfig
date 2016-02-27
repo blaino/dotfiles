@@ -63,8 +63,8 @@
 [pull]
     rebase = true
 
-[push]
-    default = simple
+# [push]
+#    default = simple
 
 # [credential]
 # 	helper = osxkeychain
