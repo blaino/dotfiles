@@ -276,3 +276,4 @@ command-log-mode."
 (add-to-list 'load-path "~/.emacs.d/ext")
 
 (setq ispell-program-name "/usr/local/bin/aspell")
+(put 'narrow-to-region 'disabled nil)
